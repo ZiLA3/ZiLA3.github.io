@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Programing"
+    url: /posts/2024-12-06-책 살펴보기 모음.md
+  - title: "Book"
+    url: /posts/2024-12-06-책 살펴보기 모음.md
+  - title: "Chess"
+    url: /posts/2024-12-06-책 살펴보기 모음.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
