@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Programing"
-    url: https://zila3.github.io/posts/2024-12-06-%EC%B1%85%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0%20%EB%AA%A8%EC%9D%8C.md
+    url: https://zila3.github.io/programing/프로그래밍-모음/
   - title: "Book"
-    url: /posts/2024-12-06-도서관📚.md.md
+    url: https://zila3.github.io/book/도서관/
   - title: "Chess"
-    url: /posts/2024-12-06-체스 모음♟️.md
+    url: https://zila3.github.io/chess/체스-모음/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
