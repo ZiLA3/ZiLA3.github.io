@@ -1,5 +1,5 @@
 ---
-title: "Godot 엔진 가이드 모음"
+title: "Godot 엔진 가이드"
 categories:
   - Programing
 tags:
