@@ -9,10 +9,9 @@ tags:
 
 Pathfinder의 코드를 살펴보자.
 
-<details>
+<details markdown="1">
 <summary>Before</summary> 
  
-
 ```csharp
 using System.Collections.Generic;
 using System.Linq;
@@ -454,7 +453,7 @@ foreach문은 간단하게 읽힌다. 방문 여부를 확인하고, 그 셀을 
 
 그렇게 완성된 최종 코드는 밑과 같다. 
 
-<details>
+<details markdown="1">
 <summary>After</summary> 
  
 ```csharp
