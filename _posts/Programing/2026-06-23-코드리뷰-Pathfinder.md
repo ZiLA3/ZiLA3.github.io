@@ -10,7 +10,8 @@ tags:
 Pathfinder의 코드를 살펴보자.
 
 <details>
-<summary>Before</summary>
+<summary>Before</summary> 
+ 
 
 ```csharp
 using System.Collections.Generic;
@@ -141,7 +142,6 @@ namespace Data.Map
     }
 }
 ```
-
 </details>
 
 흔한 A* 알고리즘이지만 읽기에는 부담스럽다. 여기서 문제가 생겼을 때 바로 고칠 수 있는 지, 수정할 수 있는지 생각하면 어렵다.
@@ -455,8 +455,8 @@ foreach문은 간단하게 읽힌다. 방문 여부를 확인하고, 그 셀을 
 그렇게 완성된 최종 코드는 밑과 같다. 
 
 <details>
-<summary>After</summary>
-
+<summary>After</summary> 
+ 
 ```csharp
 using System.Collections.Generic;
 using System.Linq;
@@ -595,5 +595,4 @@ namespace Data.Map
     }
 }
 ```
-
 </details>
